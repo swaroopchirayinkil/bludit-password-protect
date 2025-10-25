@@ -1,0 +1,10 @@
+{
+    "author": "swaroopchirayinkil",
+    "email": "swaroopchirayinkil@theartistree.in",
+    "website": "https://theartistree.in/learn/",
+    "version": "1.0",
+    "releaseDate": "2025-10-25",
+    "license": "MIT",
+    "compatible": "3.0",
+    "notes": "Password protect individual posts with custom passwords"
+}

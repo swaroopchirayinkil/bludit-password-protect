@@ -1,0 +1,13 @@
+{
+    "plugin-data": {
+        "name": "Password Protect Posts",
+        "description": "Add password protection to individual posts. Set custom passwords per page through custom fields."
+    },
+    "password-required": "Password Required",
+    "enter-password": "This content is protected. Please enter the password to view.",
+    "password-placeholder": "Enter password",
+    "submit": "Submit",
+    "incorrect-password": "Incorrect password. Please try again.",
+    "master-password-label": "Master Password (Optional)",
+    "master-password-tip": "Set a master password that works for all protected pages"
+}
